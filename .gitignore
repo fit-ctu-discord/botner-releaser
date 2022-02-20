@@ -1,0 +1,5 @@
+# Ignore all
+* 
+# Except
+!update.sh
+!.gitignore
